@@ -19,7 +19,7 @@ git config --global credential.helper store
 git config --global credential.helper 'cache --timeout=3600'
 ```
 ## Important!
-### Hay que crear un arxiu de excepcions ".gitignore"
+### Hi Ha que crear un arxiu de excepcions ".gitignore"
 #### Pàgina per autogenerar-lo
 ```
 https://www.gitignore.io/
